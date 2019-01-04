@@ -27,7 +27,6 @@ Magento has Simple and Configurable products
 Configurable products are actually a 'parent', that hold all the Simple product 'children'
 Its the same concept as Shopify Variants, except in Shopify there's no container product really
 
-
 --------------------------------------------------------
 # Notes
 --------------------------------------------------------
